@@ -1,5 +1,5 @@
 /*
- * The first challenged by foo.bar
+ * The first challenge issued by foo.bar
  * Created 10.20 by CB Fay
  */
 
