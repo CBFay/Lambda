@@ -1,4 +1,4 @@
-/*
+/**
  * The second challenge issued by foo.bar
  * Created 10.23 by CB Fay
  */
