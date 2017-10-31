@@ -1,4 +1,5 @@
 /*
+ * Braille
  * The first challenge issued by foo.bar
  * Created 10.20 by CB Fay
  */
@@ -14,7 +15,7 @@ space station are less than fifty characters long and use only letters and space
 
 import java.util.*;
 
-class LambdaChallenge1 {
+class Answer {
 	
 	public static void main(String[] args) {
 		
