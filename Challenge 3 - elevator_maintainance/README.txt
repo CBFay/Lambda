@@ -1,4 +1,4 @@
-* Encountered in Google's web recruiting tool, foo.bar
+* Encountered in Google's web recruiting tool, foo.bar *
 
 Elevator Maintenance
 ====================
